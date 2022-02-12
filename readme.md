@@ -6,3 +6,5 @@ Files contain:
     2. User Teams
 
 For User Authenticatio --> used JWT Token to verify user,
+
+For Database optimization - Added Index to Models
